@@ -16,3 +16,5 @@ Using identical tests, yarn client, dependencies, etc.
 ````
     TypeError: Cannot read property 'loose' of undefined (While processing preset: "/Users/alechp/Code/alechp/sandbox/babel-jest-comparison/babel-jest/node_modules/@babel/preset-env/lib/index.js")```
 ````
+
+yarn version: 1.3.2
